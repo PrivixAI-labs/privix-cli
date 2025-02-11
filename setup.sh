@@ -1,4 +1,4 @@
-wget https://github.com/PrivixAI-labs/privix-cli/releases/download/v1.0.0/privix-cli
+wget https://github.com/PrivixAI-labs/privix-cli/releases/download/v0.0.1/privix-cli
 
 sudo chmod +x privix-cli
 

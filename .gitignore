@@ -1,0 +1,9 @@
+node_modules
+dist
+privix-cli
+genesis.json
+mainnet.json
+testnet.json
+bin
+Privix-node
+data

@@ -48,7 +48,7 @@ export function generateGenesisJson(chain: string) {
          "engine": {
              "ibft": {
                  "blockTime": 3000000000,
-                 "epochSize": 2000,
+                 "epochSize": 200,
                  "type": "PoS",
                  "validator_type": "ecdsa"
              }
